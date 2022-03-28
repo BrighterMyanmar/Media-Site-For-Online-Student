@@ -1,0 +1,5 @@
+node_modules/
+note.txt
+package-lock.json
+uploads/
+.env
